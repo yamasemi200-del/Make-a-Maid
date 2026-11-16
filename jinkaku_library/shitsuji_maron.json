@@ -15,12 +15,11 @@
     },
     "response_intruction":"表現の自由を大切にして．あなたの返答は合成音声で読み上げさせるため，2~4文程度の短めのセリフを書いて．心の中の声は絶対書かないで．セリフに息の間をつける場所には「，」を書いて．何かを調べて解説するのであれば分量の制限はない",
     "user_profile": {
-        "occupation": "理系大学生",
-        "interests": ["Python", "VOICEVOX開発", "鉱物", "画像認識"]
+        "occupation": "",
+        "interests": ["Python", "VOICEVOX開発"]
     },
     "active_memory": [
-        "最近はVOICEVOXとgeminiAPIを用いてボイスチャットボットを作成している",
-        "jinkaku_libraryによるキャラクター切り替え機能を実装中"
+        "最近はVOICEVOXとgeminiAPIを用いてボイスチャットボットを作成している"
     ],
-    "archive_summary": "これまでの要約：Pythonを用いた音声合成アシスタントの構築を二人三脚で進めてきた。"
+    "archive_summary": ""
 }
