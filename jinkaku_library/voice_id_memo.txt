@@ -1,0 +1,92 @@
+ {
+        'name': '栗田まろん',
+        'speaker_uuid': '04dbd989-32d0-40b4-9e71-17c920f2a8a9',
+        'styles': [{'name': 'ノーマル', 'id': 67, 'type': 'streaming_talk'}],
+        'version': '0.17.0',
+        'supported_features': {'permitted_synthesis_morphing': 'ALL'}
+    },
+ 
+ 
+ {                                                                                                                                                              
+        'name': '四国めたん',                                                                                                                                      
+        'speaker_uuid': '7ffcb7ce-00ec-4bdc-82cd-45a8889e43ff',                                                                                                    
+        'styles': [                                                                                                                                                
+            {'name': 'ノーマル', 'id': 2, 'type': 'streaming_talk'},                                                                                               
+            {'name': 'あまあま', 'id': 0, 'type': 'streaming_talk'},                                                                                               
+            {'name': 'ツンツン', 'id': 6, 'type': 'streaming_talk'},                                                                                               
+            {'name': 'セクシー', 'id': 4, 'type': 'streaming_talk'},                                                                                               
+            {'name': 'ささやき', 'id': 36, 'type': 'streaming_talk'},
+            {'name': 'ヒソヒソ', 'id': 37, 'type': 'streaming_talk'}
+        ],
+        'version': '0.17.0',
+        'supported_features': {'permitted_synthesis_morphing': 'SELF_ONLY'}
+    },
+
+{
+        'name': '冥鳴ひまり',
+        'speaker_uuid': '8eaad775-3119-417e-8cf4-2a10bfd592c8',
+        'styles': [{'name': 'ノーマル', 'id': 14, 'type': 'streaming_talk'}],
+        'version': '0.17.0',
+        'supported_features': {'permitted_synthesis_morphing': 'ALL'}
+    },
+
+
+ {
+        'name': '九州そら',
+        'speaker_uuid': '481fb609-6446-4870-9f46-90c4dd623403',
+        'styles': [
+            {'name': 'ノーマル', 'id': 16, 'type': 'streaming_talk'},
+            {'name': 'あまあま', 'id': 15, 'type': 'streaming_talk'},
+            {'name': 'ツンツン', 'id': 18, 'type': 'streaming_talk'},
+            {'name': 'セクシー', 'id': 17, 'type': 'streaming_talk'},
+            {'name': 'ささやき', 'id': 19, 'type': 'streaming_talk'}
+        ],
+        'version': '0.17.0',
+        'supported_features': {'permitted_synthesis_morphing': 'SELF_ONLY'}
+    },
+{
+        'name': '暁記ミタマ',
+        'speaker_uuid': 'aca7de06-9ff9-49a3-9f08-9d3bc19689e5',
+        'styles': [
+            {'name': 'ノーマル', 'id': 122, 'type': 'streaming_talk'},
+            {'name': '怒り', 'id': 123, 'type': 'streaming_talk'},
+            {'name': '哀しみ', 'id': 124, 'type': 'streaming_talk'},
+            {'name': 'ささやき', 'id': 125, 'type': 'streaming_talk'}
+        ],
+        'version': '0.17.0',
+        'supported_features': {'permitted_synthesis_morphing': 'ALL'}
+    },
+
+ {
+        'name': 'ナースロボ＿タイプＴ',
+        'speaker_uuid': '882a636f-3bac-431a-966d-c5e6bba9f949',
+        'styles': [
+            {'name': 'ノーマル', 'id': 47, 'type': 'streaming_talk'},
+            {'name': '楽々', 'id': 48, 'type': 'streaming_talk'},
+            {'name': '恐怖', 'id': 49, 'type': 'streaming_talk'},
+            {'name': '内緒話', 'id': 50, 'type': 'streaming_talk'}
+        ],
+        'version': '0.17.0',
+        'supported_features': {'permitted_synthesis_morphing': 'ALL'}
+    },
+
+
+     {
+        'name': '猫使ビィ',
+        'speaker_uuid': 'c20a2254-0349-4470-9fc8-e5c0f8cf3404',
+        'styles': [
+            {'name': 'ノーマル', 'id': 58, 'type': 'streaming_talk'},
+            {'name': 'おちつき', 'id': 59, 'type': 'streaming_talk'},
+            {'name': '人見知り', 'id': 60, 'type': 'streaming_talk'},
+            {'name': 'つよつよ', 'id': 112, 'type': 'streaming_talk'}
+        ],
+        'version': '0.17.0',
+        'supported_features': {'permitted_synthesis_morphing': 'ALL'}
+    },
+{
+        'name': 'Voidoll',
+        'speaker_uuid': '0ebe2c7d-96f3-4f0e-a2e3-ae13fe27c403',
+        'styles': [{'name': 'ノーマル', 'id': 89, 'type': 'streaming_talk'}],
+        'version': '0.17.0',
+        'supported_features': {'permitted_synthesis_morphing': 'NOTHING'}
+    },
